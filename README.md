@@ -2,9 +2,10 @@
 ## Sistema fullstack de exemplo
 
 ## Tecnologias
-- NodeJS
-- Mysql/MariaDB (XAMPP)
-- Live Server
+- [NodeJS](https://nodejs.org/en/) - Ambiente de execução Javascript
+- [VsCode](https://code.visualstudio.com/) - IDE
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html) - Mysql/MariaDB (XAMPP)
+- Live Server - Extenção de servidor front-end VsCode para executar html
 
 ## Como testar
 - 1 clone este repositório
